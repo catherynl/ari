@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - FxTemporaire
+  - projectile
+  - mushroom
+  - rock
+  - ball
+  - RippleTriggerZone
+  - Water
+  - left
+  - right
+  - pedestal
+  - vine
+  - vine_mesh
+  - add_baton
+  - remove_baton
+  - baton
+  - deer_trigger
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - BloomMobileEffect
+  - Cart
+  - Brake
+  - Ripple
+  - Rock
+  - ElectricCurrent
+  - Controller
+  - ControllerInteractive
+  - ElectricMushroom
+  - 
+  - 
+  - 
+  - Animal
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
